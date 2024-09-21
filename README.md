@@ -1,7 +1,5 @@
-## Hi there 👋
+## Hi 👋
 
 - 👋 My name is Max.
-- 🌱 I'm learning PHP now.
-- 😄 Pronouns: there are none.
+- 😄 I am a developer of programs in Python.
 - ⚡ Interesting fact: I'm Russian.
-- That's all for now.
